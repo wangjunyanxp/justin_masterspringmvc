@@ -26,6 +26,4 @@ nbdist/
 
 # Justin #
 /out/
-gradlew
-gradlew.bat
 gradle/wrapper/gradle-wrapper.jar
